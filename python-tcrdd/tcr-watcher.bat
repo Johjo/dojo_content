@@ -1,0 +1,1 @@
+ptw --onpass ".\tcr_commands\commit_all" --onfail ".\tcr_commands\commit_test_then_revert"
