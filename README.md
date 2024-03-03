@@ -4,8 +4,8 @@ Bienvenue dans le dojo ytreza.dev.
 
 ## Comment ouvrir un ticket
 En cas de besoin, vous pouvez ouvrir un ticket : [Ouvrir un ticket](https://airtable.com/appQ2Kv5N18Qh6Nii/pagMzgblmdBffUFCv/form)
-Au fur et à mesure, les tickets seront automatisés via l'interface de discord.
-Les tickets servent aussi à répondre aux questions.
+
+Au fur et à mesure, les tickets seront automatisés via l'interface de discord. Les tickets servent aussi à répondre aux questions.
 
 
 ## Onboarding
